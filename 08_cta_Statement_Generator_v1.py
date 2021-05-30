@@ -14,5 +14,6 @@ def statement_generator(statement, side_decoration, top_bottom_decoration):
 
     return ""
 
-
-statement_generator("Instructions", "|", "?")
+while 1 == 1:
+    statement_generator("Instructions", "|", "?")
+    play_again = 
