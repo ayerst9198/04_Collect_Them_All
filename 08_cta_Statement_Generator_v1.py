@@ -16,4 +16,3 @@ def statement_generator(statement, side_decoration, top_bottom_decoration):
 
 while 1 == 1:
     statement_generator("Instructions", "|", "?")
-    play_again = 
